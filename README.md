@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexEquinox
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning the DevOps Crash Course from SoftServe
+- 👀 I’m interested in DevOps and NetOps
+- 🌱 I’m currently prepare for job interviews
 - 💞️ I’m looking to collaborate with intresting open-minded people
 - 📫 How to reach me? Give me a good job offer!
 
